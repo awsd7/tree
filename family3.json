@@ -1,0 +1,20 @@
+{"born": 1873, "firstname": "Andrzej", "children": [
+    {"born": 1906, "firstname": "Józef", "children": [
+		{"born": 1934, "firstname": "stanislaw", "children": [
+			{"born": 1959, "firstname": "Jan", "children": [
+				{"born": 1959, "firstname": "Sylwia", "children": [
+					{"born": 1959, "firstname": "Kacper"}
+				]},
+				{"born": 1959, "firstname": "Sabina"}
+			]},
+			{"born": 1960, "firstname": "Jan", "children": [
+				{"born": 1980, "firstname": "Jan", "children": [
+					{"born": 1999, "firstname": "Jan", "children": [
+					]}
+				]},
+				{"born": 82, "firstname": "Jan", "children": [
+				]}
+			]}
+		]}
+	]}
+]}
