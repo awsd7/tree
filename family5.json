@@ -1,0 +1,289 @@
+{"born": 1873, "firstname": "a0", "children": [
+    {"born": 1906, "firstname": "a1", "children": [
+		{"born": 1934, "firstname": "a2", "children": [
+			{"born": 1959, "firstname": "a3", "children": [
+				{"born": 1984, "firstname": "a4", "children": [
+					{"born": 2011, "firstname": "a5"}
+				]},
+				{"born": 1988, "firstname": "a4"}
+			]},
+			{"born": 1958, "firstname": "a3", "children": [
+				{"born": 1982, "firstname": "a4", "children": [
+					{"born": 2015, "firstname": "a5", "children": [
+					]}
+				]},
+				{"born": 1993, "firstname": "a4", "children": [
+				]}
+			]}
+		]},
+		{"born": 1938, "firstname": "a2", "children": [
+			{"born": 1968, "firstname": "a3", "children": [
+				{"born": 1993, "firstname": "a4", "children": [
+				]}
+			]},
+			{"born": 1973, "firstname": "a3", "children": [
+			]}
+		]},
+		{"born": 1947, "firstname": "a2", "children": [
+			{"born": 1971, "firstname": "a3", "children": [
+				{"born": 2003, "firstname": "a4", "children": [
+				]}
+			]},
+			{"born": 1972, "firstname": "a3", "children": [
+				{"born": 2010, "firstname": "a4", "children": [
+				]},
+				{"born": 1994, "firstname": "a4", "children": [
+				]},
+				{"born": 1992, "firstname": "a4", "children": [
+					{"born": 2014, "firstname": "a5"}
+				]}
+			]},
+			{"born": 1985, "firstname": "a3", "children": [
+				{"born": 2015, "firstname": "a4", "children": [
+				]},
+				{"born": 2010, "firstname": "a4", "children": [
+				]}
+			]}
+		]}
+	]},
+	{"born": 1907, "firstname": "a1", "children": [
+		{"born": 1937, "firstname": "a2", "children": [
+			{"born": 1971, "firstname": "a3", "children": [
+				{"born": 1995, "firstname": "a4", "children": [
+				]},
+				{"born": 1999, "firstname": "a4", "children": [
+				]}
+			]},
+			{"born": 1957, "firstname": "a3", "children": [
+				{"born": 1985, "firstname": "a4", "children": [
+				]},
+				{"born": 1983, "firstname": "a4", "children": [
+				]}
+			]}
+		]},
+		{"born": 1938, "firstname": "a2", "children": [
+			{"born": 1962, "firstname": "a3", "children": [
+			]},
+			{"born": 1966, "firstname": "a3", "children": [
+			]},
+			{"born": 1967, "firstname": "a3", "children": [
+				{"born": 1996, "firstname": "a4", "children": [
+				]},
+				{"born": 1991, "firstname": "a4", "children": [
+				]}
+			]}
+		]},
+		{"born": 1941, "firstname": "a2", "children": [
+			{"born": 1964, "firstname": "a3", "children": [
+				{"born": 1987, "firstname": "a4", "children": [
+				]},
+				{"born": 1986, "firstname": "a4", "children": [
+				]}
+			]},
+			{"born": 1968, "firstname": "a3", "children": [
+				{"born": 1998, "firstname": "a4", "children": [
+				]},
+				{"born": 2000, "firstname": "a4", "children": [
+				]}
+			]},
+			{"born": 1985, "firstname": "a3", "children": [
+				{"born": 2015, "firstname": "a4", "children": [
+				]}
+			]}
+		]},
+		{"born": 1945, "firstname": "a2", "children": [
+			{"born": 1969, "firstname": "a3", "children": [
+				{"born": 1995, "firstname": "a4", "children": [
+				]},
+				{"born": 1996, "firstname": "a4", "children": [
+				]},
+				{"born": 1997, "firstname": "a4", "children": [
+				]},
+				{"born": 2008, "firstname": "a4", "children": [
+				]}
+			]},
+			{"born": 1973, "firstname": "a3", "children": [
+				{"born": 2012, "firstname": "a4", "children": [
+				]},
+				{"born": 2000, "firstname": "a4", "children": [
+				]}
+			]},
+			{"born": 1975, "firstname": "a3", "children": [
+				{"born": 1995, "firstname": "a4", "children": [
+				]},
+				{"born": 2007, "firstname": "a4", "children": [
+				]}
+			]}
+		]}
+	]},
+	{"born": 1913, "firstname": "a1", "children": [
+		{"born": 1943, "firstname": "a2", "children": [
+			{"born": 1969, "firstname": "a3", "children": [
+				{"born": 2005, "firstname": "a4", "children": [
+				]},
+				{"born": 1998, "firstname": "a4", "children": [
+				]},
+				{"born": 2009, "firstname": "a4", "children": [
+				]},
+				{"born": 2008, "firstname": "a4", "children": [
+				]}
+			]},
+			{"born": 1972, "firstname": "a3", "children": [
+				{"born": 2008, "firstname": "a4", "children": [
+				]},
+				{"born": 2003, "firstname": "a4", "children": [
+				]}
+			]},
+			{"born": 1983, "firstname": "a3", "children": [
+			]}
+		]},
+		{"born": 1939, "firstname": "a2", "children": [
+			{"born": 1967, "firstname": "a3", "children": [
+				{"born": 1988, "firstname": "a4", "children": [
+				]},
+				{"born": 1996, "firstname": "a4", "children": [
+				]},
+				{"born": 2007, "firstname": "a4", "children": [
+				]},
+				{"born": 2003, "firstname": "a4", "children": [
+				]}
+			]},
+			{"born": 1975, "firstname": "a3", "children": [
+				{"born": 2004, "firstname": "a4", "children": [
+				]},
+				{"born": 2002, "firstname": "a4", "children": [
+				]},
+				{"born": 1997, "firstname": "a4", "children": [
+				]}
+			]},
+			{"born": 1970, "firstname": "a3", "children": [
+			]}
+		]},
+		{"born": 1948, "firstname": "a2", "children": [
+			{"born": 1973, "firstname": "a3", "children": [
+				{"born": 2007, "firstname": "a4", "children": [
+				]},
+				{"born": 2008, "firstname": "a4", "children": [
+				]},
+				{"born": 2015, "firstname": "a4", "children": [
+				]}
+			]},
+			{"born": 1975, "firstname": "a3", "children": [
+				{"born": 2010, "firstname": "a4", "children": [
+				]},
+				{"born": 2009, "firstname": "a4", "children": [
+				]},
+				{"born": 2015, "firstname": "a4", "children": [
+				]},
+				{"born": 2005, "firstname": "a4", "children": [
+				]}
+			]}
+		]}
+	]},
+	{"born": 1901, "firstname": "a1", "children": [
+		{"born": 1943, "firstname": "a2", "children": [
+			{"born": 1969, "firstname": "a3", "children": [
+			]},
+			{"born": 1964, "firstname": "a3", "children": [
+				{"born": 1988, "firstname": "a4", "children": [
+				]}
+			]},
+			{"born": 1976, "firstname": "a3", "children": [
+			]}
+		]},
+		{"born": 1939, "firstname": "a2", "children": [
+			{"born": 1966, "firstname": "a3", "children": [
+				{"born": 1997, "firstname": "a4", "children": [
+				]}
+			]}
+		]}
+	]},
+	{"born": 1902, "firstname": "a1", "children": [
+		{"born": 1942, "firstname": "a2", "children": [
+			{"born": 1973, "firstname": "a3", "children": [
+				{"born": 1998, "firstname": "a4", "children": [
+				]},
+				{"born": 2006, "firstname": "a4", "children": [
+				]},
+				{"born": 2001, "firstname": "a4", "children": [
+				]},
+				{"born": 2010, "firstname": "a4", "children": [
+				]}
+			]}
+		]},
+		{"born": 1934, "firstname": "a2", "children": [
+			{"born": 1964, "firstname": "a3", "children": [
+				{"born": 1984, "firstname": "a4", "children": [
+					{"born": 2015, "firstname": "a5"}
+				]},
+				{"born": 1996, "firstname": "a4", "children": [
+				]}
+			]},
+			{"born": 1959, "firstname": "a3", "children": [
+				{"born": 1989, "firstname": "a4", "children": [
+				]},
+				{"born": 1985, "firstname": "a4", "children": [
+					{"born": 2013, "firstname": "a5"},
+					{"born": 2015, "firstname": "a5"}
+				]}
+			]}
+		]},
+		{"born": 1939, "firstname": "a2", "children": [
+			{"born": 1965, "firstname": "a3", "children": [
+			]},
+			{"born": 1965, "firstname": "a3", "children": [
+				{"born": 1985, "firstname": "a4", "children": [
+					{"born": 2011, "firstname": "a5"}
+				]},
+				{"born": 1988, "firstname": "a4", "children": [
+				]}
+			]},
+			{"born": 1971, "firstname": "a3", "children": [
+				{"born": 2006, "firstname": "a4", "children": [
+				]},
+				{"born": 2008, "firstname": "a4", "children": [
+				]}
+			]}
+		]},
+		{"born": 1936, "firstname": "a2", "children": [
+			{"born": 1969, "firstname": "a3", "children": [
+				{"born": 1998, "firstname": "a4", "children": [
+				]},
+				{"born": 1996, "firstname": "a4", "children": [
+				]}
+			]},
+			{"born": 1965, "firstname": "a3", "children": [
+				{"born": 1988, "firstname": "a4", "children": [
+					{"born": 2014, "firstname": "a5"},
+					{"born": 2011, "firstname": "a5"}
+				]},
+				{"born": 1989, "firstname": "a4", "children": [
+				]}
+			]},
+			{"born": 1967, "firstname": "a3", "children": [
+				{"born": 2004, "firstname": "a4", "children": [
+				]},
+				{"born": 2000, "firstname": "a4", "children": [
+				]},
+				{"born": 1995, "firstname": "a4", "children": [
+				]},
+				{"born": 1994, "firstname": "a4", "children": [
+				]}
+			]}
+		]}
+	]},
+	{"born": 1904, "firstname": "a1", "children": [
+		{"born": 1929, "firstname": "a2", "children": [
+		]},
+		{"born": 1937, "firstname": "a2", "children": [
+			{"born": 1966, "firstname": "a3", "children": [
+				{"born": 1988, "firstname": "a4", "children": [
+				]}
+			]},
+			{"born": 1968, "firstname": "a3", "children": [
+				{"born": 1994, "firstname": "a4", "children": [
+				]}
+			]}
+		]}
+	]}
+]}
