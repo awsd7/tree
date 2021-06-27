@@ -1,0 +1,7 @@
+{"born": 1919, "firstname": "", "children": [
+    {"born": 1943, "firstname": "Simplice"},
+    {"born": 1944, "firstname": "Marguerite", "children": [
+        {"born": 1979, "firstname": "Mira"},
+        {"born": 1985, "firstname": "Charles"}
+    ]}
+]}
